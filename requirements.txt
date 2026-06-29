@@ -1,0 +1,6 @@
+Pillow
+datasets
+accelerate
+bitsandbytes
+qwen-vl-utils
+transformers==4.51.3
